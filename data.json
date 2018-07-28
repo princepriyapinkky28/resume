@@ -1,0 +1,60 @@
+{
+  "details":{
+  "image":"images.jpg",
+  "name":"Pinky Princes",
+  "phoneno":"+91-9694282498",
+  "email":"pothuboina.priyanka4@mail.com",
+  "address":"vuyyuru,vijayawada"
+},
+"career":{
+  "info":"To pursue a challenging career and to be a part of progessive organisation that gives a scope to enhance my knowledge and utilizing my skills"
+},
+"education":[
+  {
+    "qualification":"B.Tech",
+    "institute":"Mic College",
+    "year":"2016-2020",
+    "percentage":"98%"
+},
+
+{
+  "qualification":"Intermediate",
+  "institute":"Sri Srinivasa",
+  "year":"2014-2016",
+  "percentage":"100%"
+},
+{
+  "qualification":"ssc",
+  "institute":"srinivasa aksharalayam",
+  "year":"2013-2014",
+  "percentage":"97%"
+}
+],
+
+"skills":[{
+  "tittle":"programming Languages",
+  "info":["C,C++,Java,R,Python"]
+},
+{
+  "tittle":"Databases",
+  "info":["oracle,sql,mysql,Tinydb"]
+
+},
+{
+"tittle":"Operating Systems",
+"info":["windows,linux,ubuntu,Dos"]
+}
+],
+"Achievements":
+[
+  {
+    "info":"best award in coding"
+  },
+  {
+    "info":"best in ppt"
+  },
+  {
+    "info":"best student award"
+  }
+]
+}
